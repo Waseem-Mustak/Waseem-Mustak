@@ -1,4 +1,5 @@
 <h1 align="center">~ Hello there! I'm Waseem ~</h1>
+# Hi there 👋 I'm Waseem Mustak Zisan!
 
 I go by **Waseem Mustak** online. I'm a **Computer Science and Engineering** student at [_BUET_](https://www.buet.ac.bd/web/), passionate about technology and problem-solving. As a **competitive programmer**, I enjoy tackling challenging problems and participating in coding contests to sharpen my skills and creativity.
 
