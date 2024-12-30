@@ -14,7 +14,12 @@ I go by **Waseem Mustak** online. I'm a **Computer Science and Engineering** stu
 
 ### 🛠️ My Tech
 
-
+- **Languages -** 
+![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
+![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&)
+![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
+![C Sharp](https://img.shields.io/static/v1?&message=C+Sharp&color=2d07ad&logo=csharp&label=&)
+![F Sharp](https://img.shields.io/static/v1?&message=F+Sharp&color=000000&logo=fsharp&logoColor=66bced&label=)
 - **Languages -**  
 ![C](https://img.shields.io/static/v1?&message=C&color=004e1a&logo=C&logoColor=white&label=&) &nbsp;&nbsp;
 ![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&) &nbsp;&nbsp;
