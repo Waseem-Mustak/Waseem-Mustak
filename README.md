@@ -1,16 +1,29 @@
-## Hi there 👋
+# Waseem Mustak
 
-<!--
-**Waseem-Mustak/Waseem-Mustak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate software developer with expertise in various programming languages and technologies. I enjoy solving complex problems and building innovative solutions.
+
+## Skills
+
+- **Languages:** C++, SQL
+
+## Live Projects
+
+### Algorithm Visualizer
+- **Description:** A tool to visualize various algorithms.
+- **Technologies Used:** JavaScript, React
+- **Repository:** [Link to the repository]
+
+
+## Contact
+
+- **Email:** [Your Email]
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Twitter:** [Your Twitter Handle]
+
+Feel free to reach out if you have any questions or collaboration ideas!
+
+Thank you for visiting my GitHub repository!
