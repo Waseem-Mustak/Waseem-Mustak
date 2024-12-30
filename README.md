@@ -1,5 +1,4 @@
 <h1>~ Hello there👋 I'm Waseem Mustak Zisan! ~</h1>
-# Hi there 👋 I'm Waseem Mustak Zisan!
 
 I go by **Waseem Mustak** online. I'm a **Computer Science and Engineering** student at [_BUET_](https://www.buet.ac.bd/web/), passionate about technology and problem-solving. As a **competitive programmer**, I enjoy tackling challenging problems and participating in coding contests to sharpen my skills and creativity.
 
@@ -11,6 +10,32 @@ I go by **Waseem Mustak** online. I'm a **Computer Science and Engineering** stu
 
 
 > 💡 *I'm open to collaborating on exciting projects and exploring opportunities in **backend engineering and competitive programming**.*  
+
+
+### 🛠️ My Tech
+
+
+- **Languages -**  
+![C](https://img.shields.io/static/v1?&message=C&color=004e1a&logo=C&logoColor=white&label=&) &nbsp;&nbsp;
+![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&) &nbsp;&nbsp;
+![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=) &nbsp;&nbsp;
+![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
+
+- **Backend -**  
+![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=Node.js&logoColor=white&label=) &nbsp;&nbsp;
+![OracleDB](https://img.shields.io/static/v1?&message=OracleDB&color=F80000&logo=Oracle&label=) &nbsp;&nbsp;
+
+- **Frontend -**  
+![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=) &nbsp;&nbsp;
+![React](https://img.shields.io/static/v1?&message=React&color=000000&logo=react&logoColor=66bced&label=)
+
+- **Tools -**  
+![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=) &nbsp;&nbsp;
+![Github](https://img.shields.io/static/v1?&message=Github&color=000000&logo=github&logoColor=FFFFFF&label=) &nbsp;&nbsp;
+![Bash](https://img.shields.io/static/v1?&message=Bash&color=000000&logo=powershell&logoColor=5cfc05&label=) &nbsp;&nbsp;
+![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
+
+
 
 Feel free to connect with me:
 <!-- - 📧 [Email](mailto:waseemmustakzisan@gmail.com)
