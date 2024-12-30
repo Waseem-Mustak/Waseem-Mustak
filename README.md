@@ -1,6 +1,6 @@
 <h1>~ Hello there👋 I'm Waseem Mustak Zisan! ~</h1>
 
-I go by **Waseem Mustak** online. I'm a **Computer Science and Engineering** student at [_BUET_](https://www.buet.ac.bd/web/), passionate about technology and problem-solving. As a **competitive programmer**, I enjoy tackling challenging problems and participating in coding contests to sharpen my skills and creativity.
+I go by **Waseem-Mustak** online. I'm a **Computer Science and Engineering** student at [_BUET_](https://www.buet.ac.bd/web/), passionate about technology and problem-solving. As a **competitive programmer**, I enjoy tackling challenging problems and participating in coding contests to sharpen my skills and creativity.
 
 ### About Me
 - 🎓 Currently pursuing my **CSE degree**.
